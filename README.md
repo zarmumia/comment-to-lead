@@ -6,7 +6,9 @@ A Claude skill for small-business owners who get clients from Facebook groups.
 Claude goes through the groups you already belong to, finds posts where your help is genuinely useful, drafts a short comment, and keeps a lead log.
 **You edit and send every comment yourself.** Nothing is ever posted automatically.
 
-▶ **[Watch the 40-second demo](media/comment-to-lead-demo.mp4)**
+
+https://github.com/user-attachments/assets/22692644-6b14-4a2f-a7c6-ee9335d8e193
+
 
 ## Why a human — always
 
