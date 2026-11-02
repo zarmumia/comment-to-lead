@@ -6,13 +6,16 @@ A Claude skill for small-business owners who get clients from Facebook groups.
 Claude goes through the groups you already belong to, finds posts where your help is genuinely useful, drafts a short comment, and keeps a lead log.
 **You edit and send every comment yourself.** Nothing is ever posted automatically.
 
-## Why a human sends every comment
+▶ **[Watch the 40-second demo](media/comment-to-lead-demo.mp4)**
 
-- Comments that sound automated hurt your reputation in the group.
-- Fully automated activity gets accounts restricted.
-- Your edit is what makes the comment yours. The `examples/` folder shows the difference.
+## Why a human — always
 
-Low volume (2 comments a round), a real answer in every comment, a person behind every send.
+1. **Speed converts.** When someone replies, the lead is warm for minutes, not days. You answer right away, in the moment.
+2. **Replies come from everywhere.** A reply in the thread, a private message, WhatsApp, a phone call. Only you see the whole conversation, so only you can move it forward.
+3. **Your voice, end to end.** The person who wrote the comment is the person they will talk to. No gap between the comment and you.
+
+Claude does the searching, scoring and drafting. You do what makes it convert.
+(And yes — low volume with a person behind every send also keeps your account safe.)
 
 ## How it works
 
@@ -54,6 +57,11 @@ Claude עובר על הקבוצות שאת כבר חברה בהן ומוצא פ�
 **כל תגובה את עורכת ושולחת בעצמך.** שום דבר לא מתפרסם אוטומטית.
 
 **הזרימה:** מוצאים ← מדרגים ← מנסחים ← את שולחת ← נרשם ביומן. פעם בשבוע בודקים מה התקדם.
+
+**למה תמיד אדם:**
+1. **מהירות ממירה.** כשמישהו עונה, הליד חם לדקות, לא לימים. את עונה מיד.
+2. **התגובות מגיעות מכל מקום:** בשרשור, בהודעה פרטית, בוואטסאפ, בטלפון. רק את רואה את כל השיחה.
+3. **הקול שלך מההתחלה עד הסוף.** מי שכתבה את התגובה היא מי שהם ידברו איתה. אין פער בין האדם למכונה.
 
 ---
 
