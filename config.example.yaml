@@ -1,0 +1,26 @@
+# Copy to config.yaml and fill in for your business.
+
+business:
+  name: "Your Business"
+  offer: "What you do, in one sentence"
+  site_url: "https://example.com"
+
+audience: "Owners of small businesses (5-30 employees) who are not strong with tech"
+
+pains:            # what makes a post relevant
+  - "too much manual work / paperwork"
+  - "leads or clients falling between the cracks"
+  - "scheduling and follow-up problems"
+  - "asking for a tool, CRM or automation recommendation"
+
+groups:           # groups you are already a member of
+  - name: "Entrepreneurs group"
+    url: "https://www.facebook.com/groups/..."
+  - name: "Small business owners"
+    url: "https://www.facebook.com/groups/..."
+
+daily_limit: 2    # comments per round
+
+language: "he"    # language of the groups
+
+tone: "Warm, direct, practical. Like a colleague who has done this before."
