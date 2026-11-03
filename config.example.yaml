@@ -16,8 +16,12 @@ pains:            # what makes a post relevant
 groups:           # groups you are already a member of
   - name: "Entrepreneurs group"
     url: "https://www.facebook.com/groups/..."
+    rules: ""     # filled in on the first round, from the group's About / Rules
+    skip: false   # true if the group's rules forbid this kind of comment
   - name: "Small business owners"
     url: "https://www.facebook.com/groups/..."
+    rules: ""
+    skip: false
 
 daily_limit: 2    # comments per round
 
